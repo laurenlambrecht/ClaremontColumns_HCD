@@ -2,7 +2,7 @@
 
 A social app concept for Claremont residents to upload photos of places they love in Claremont — or places that could use engineering improvements. Built from a human-centered design (HCD) project: paper prototypes first, then a second iteration based on feedback.
 
-**Live site:** https://laurenlambrecht.github.io/ClaremontColumns_HCD/ (after enabling GitHub Pages, below)
+**Live site:** https://laurenlambrecht.github.io/ClaremontColumns_HCD/ 
 
 ## What it does
 
